@@ -1,3 +1,9 @@
+/**
+ * @id java/helloworld
+ * @name Test query
+ * @description Testing a basic query
+ * @tags testing
+ */
 import java
 
-select "hello sgt world"
+select "basic issue test"
