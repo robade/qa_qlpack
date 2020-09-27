@@ -2,7 +2,7 @@
  * @name Test query
  * @description Testing a basic query
  * @id java/helloworld
- * @kind test
+ * @kind problem
  * @precision low
  * @problem.severity error
  * @tags testing
