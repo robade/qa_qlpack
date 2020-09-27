@@ -5,4 +5,4 @@ disable-default-queries: true
 
 queries:  
      - name: testing a basic codeql query
-       uses:./helloworld.ql
+       uses: ./helloworld.ql
