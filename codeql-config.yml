@@ -6,4 +6,5 @@ disable-default-queries: true
 queries:  
      - name: testing a basic codeql query
        #uses: ./queries/helloworld.ql
-       uses: robade/qa_qlpack/java/helloworld.ql@master
+       #uses: robade/qa_qlpack/java/helloworld.ql@master
+       uses:  robade/qa_qlpack/java/customsuite.qls@master
