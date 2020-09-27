@@ -11,6 +11,6 @@
 
 import java
 
-from IntegerLiteral literal, File f
+from IntegerLiteral literal
 where literal.getIntValue() = 0
-select f, "This literal " + literal +"has the value 0" 
+select literal, "This literal has the value 0" 
