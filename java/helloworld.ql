@@ -10,4 +10,6 @@
  
 import java
 
-select "basic issue test"
+from File f
+
+select f, "basic issue test"
